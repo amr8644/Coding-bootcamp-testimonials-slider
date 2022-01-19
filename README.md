@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Design](./design/desktop-design-slide.jpg)
-![Mobile Design](./design/mobile-design-slide.jpg)
+![Desktop Design](./design/desktop-design-slide-1.jpg)
+![Mobile Design](./design/mobile-design-slide-1.jpg)
 
 ### Links
 
-- GitHub : [SourceCode](https://github.com/amr8644/Clipboard-Landing-Page)
-- Live Site URL: [Live](https://optimistic-lovelace-ea9a29.netlify.app/)
+- GitHub : [SourceCode](https://github.com/amr8644/Coding-bootcamp-testimonials-slider)
+- Live Site URL: [Live](https://coding-bootcamp-testimonials-slider-sandy.vercel.app/)
 
 ## My process
 
